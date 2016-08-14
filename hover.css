@@ -1,0 +1,82 @@
+.surfballard a p {
+  display:none;
+}
+.surfballard a:hover p {
+  display:block;
+}
+.alkikayaktours a p {
+  display:none;
+}
+.alkikayaktours a:hover p {
+  display:block;
+}
+.urbansurf a p {
+  display:none;
+}
+.urbansurf a:hover p {
+  display:block;
+}
+.greenlakeboathouse a p {
+  display:none;
+}
+.greenlakeboathouse a:hover p {
+  display:block;
+}
+.mossbay a p {
+  display:none;
+}
+.mossbay a:hover p {
+  display:block;
+}
+h1 {
+  text-align: center;
+  font-family: Arial;
+}
+nav {
+  height: 120px;
+}
+nav h2 {
+  display: inline-block;
+  font-family: Arial;
+}
+body {
+  text-align: center;
+}
+.resize {
+  height: 80%;
+  margin-left: 120;
+}
+.surfballard {
+  height: 35px;
+}
+.alkikayaktours {
+  height: 35px;
+}
+.urbansurf {
+  height: 35px;
+}
+.greenlakeboathouse {
+  height: 35px;
+}
+.mossbay {
+  height: 35px;
+}
+.home {
+  color: #00cccc;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  border: 3px solid #00cccc;
+  padding: 5px;
+  border-radius: 10px;
+}
+.kayaking {
+  color: #00cccc;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  border: 3px solid #00cccc;
+  padding: 5px;
+  border: 3px solid #00cccc;
+  border-radius: 10px;
+}
